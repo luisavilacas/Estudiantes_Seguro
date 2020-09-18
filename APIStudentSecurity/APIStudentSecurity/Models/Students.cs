@@ -1,6 +1,4 @@
-﻿
-
-namespace APIStudentSecurity.Models
+﻿namespace APIStudentSecurity.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;

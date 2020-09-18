@@ -8,7 +8,6 @@
         {
 
         }
-
-        public System.Data.Entity.DbSet<admStudentSecurity.Models.Students> Students { get; set; }
+          public System.Data.Entity.DbSet<admStudentSecurity.Models.Students> Students { get; set; }
     }
 }
